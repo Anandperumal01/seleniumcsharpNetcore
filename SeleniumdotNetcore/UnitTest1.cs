@@ -33,9 +33,6 @@ namespace SeleniumdotNetcore
 
 
 
-
-
-            Console.WriteLine("Test1");
             Assert.Pass();
             driver.Close();
         }
